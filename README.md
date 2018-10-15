@@ -1,4 +1,4 @@
-# MineWeb *GitHub Edition*
+# CraftNet *GitHub Edition*
 **By MineCorp**
 * * *
 This site was started by Joey to create an interconnected version of CraftNet, by making one that spanned across school and home devices. The first idea that came to mind? GitHub.
